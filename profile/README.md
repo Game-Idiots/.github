@@ -15,10 +15,10 @@ Who are Game Idiots is a small team of game developers and enthusiasts dedicated
 
 ## Beta Tests Team Member
 
--[@AtFam](https://github.com/atfam)
--[@GamerNJB](https://github.com/GamerNJB)
--[@CBot-5000](https://github.com/CBot-5000)
--[Hylian345](https://github.com/Hylian345)
+- [@AtFam](https://github.com/atfam)
+- [@GamerNJB](https://github.com/GamerNJB)
+- [@CBot-5000](https://github.com/CBot-5000)
+- [Hylian345](https://github.com/Hylian345)
 
 ## 🔗 Links
 
