@@ -11,7 +11,6 @@ Who are Game Idiots is a small team of game developers and enthusiasts dedicated
 
 - [@AtFam](https://github.com/atfam)
 - [@GamerNJB](https://github.com/GamerNJB)
-- [@37397398371280](https://github.com/37397398371280)
 
 ## Beta Tests Team Member
 
