@@ -21,4 +21,4 @@ Who are Game Idiots is a small team of game developers and enthusiasts dedicated
 
 ## 🔗 Links
 
-[![websit](https://img.icons8.com/ios/100/internet-browser--v1.png)](https://game-idiots.github.io/website/)
+[![websit](https://img.icons8.com/ios/100/internet-browser--v1.png)](https://gameidiots.dev)
